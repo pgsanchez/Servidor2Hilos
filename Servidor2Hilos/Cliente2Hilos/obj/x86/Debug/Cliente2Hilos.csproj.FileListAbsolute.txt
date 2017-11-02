@@ -1,0 +1,10 @@
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Cliente2Hilos\bin\Debug\Cliente2Hilos.exe
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Cliente2Hilos\bin\Debug\Cliente2Hilos.pdb
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Cliente2Hilos\bin\Debug\LibreriaIntercambio.dll
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Cliente2Hilos\bin\Debug\LibreriaIntercambio.pdb
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Cliente2Hilos\obj\x86\Debug\Cliente2Hilos.Form1.resources
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Cliente2Hilos\obj\x86\Debug\Cliente2Hilos.Properties.Resources.resources
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Cliente2Hilos\obj\x86\Debug\Cliente2Hilos.csproj.GenerateResource.Cache
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Cliente2Hilos\obj\x86\Debug\Cliente2Hilos.exe
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Cliente2Hilos\obj\x86\Debug\Cliente2Hilos.pdb
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Cliente2Hilos\obj\x86\Debug\Cliente2Hilos.csprojResolveAssemblyReference.cache

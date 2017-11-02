@@ -1,0 +1,7 @@
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\Servidor2Hilos\Servidor2Hilos\bin\Debug\Servidor2Hilos.exe
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\Servidor2Hilos\Servidor2Hilos\bin\Debug\Servidor2Hilos.pdb
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\Servidor2Hilos\Servidor2Hilos\obj\x86\Debug\Servidor2Hilos.exe
+c:\users\p.gsanchez\documents\visual studio 2010\Projects\Servidor2Hilos\Servidor2Hilos\obj\x86\Debug\Servidor2Hilos.pdb
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Servidor2Hilos\bin\Debug\LibreriaIntercambio.dll
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Servidor2Hilos\bin\Debug\LibreriaIntercambio.pdb
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\Servidor2Hilos\obj\x86\Debug\Servidor2Hilos.csprojResolveAssemblyReference.cache

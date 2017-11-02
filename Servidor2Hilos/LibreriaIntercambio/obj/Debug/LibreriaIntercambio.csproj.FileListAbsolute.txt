@@ -1,0 +1,10 @@
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\CarServer\LibreriaIntercambio\bin\Debug\LibreriaIntercambio.dll
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\CarServer\LibreriaIntercambio\bin\Debug\LibreriaIntercambio.pdb
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\CarServer\LibreriaIntercambio\obj\Debug\LibreriaIntercambio.dll
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\CarServer\LibreriaIntercambio\obj\Debug\LibreriaIntercambio.pdb
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\CarServer\LibreriaIntercambio\obj\Debug\LibreriaIntercambio.csprojResolveAssemblyReference.cache
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\LibreriaIntercambio\bin\Debug\LibreriaIntercambio.dll
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\LibreriaIntercambio\bin\Debug\LibreriaIntercambio.pdb
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\LibreriaIntercambio\obj\Debug\LibreriaIntercambio.csprojResolveAssemblyReference.cache
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\LibreriaIntercambio\obj\Debug\LibreriaIntercambio.dll
+C:\Users\p.gsanchez\Documents\Visual Studio 2010\Projects\Servidor2Hilos\LibreriaIntercambio\obj\Debug\LibreriaIntercambio.pdb
